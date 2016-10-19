@@ -11,6 +11,7 @@ Use the getRealPlayerController prefab from getReal3D, and remove all the script
 Then simply attatch the FreeCam.cs script to the getRealPlayerController prefab.  
   
 Make sure to set up the following buttons in the getReal3D input manager
+  
 | Button Name  | Definition |
 | ------------- | ------------- |
 | Speed  | Base rotation speed for camera  |
